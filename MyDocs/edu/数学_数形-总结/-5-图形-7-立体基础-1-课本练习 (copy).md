@@ -22,6 +22,8 @@
 
 #### 线与面
 
+- 设直线a，b 分别是长方体的相邻两个面的对角线所在的直线，则a 与b是什么位置关系
+
 - 已知直线a，b，平面$\alpha,\beta$，且$a\subset \alpha,b\subset\beta,\alpha//\beta$。判断直线a，b 的位置关系，并说明理由
 
 - 已知$\alpha,\beta$ 是两个不同的平面，m 为平面$\alpha$ 内的一条直线，则$\alpha\bot \beta$ 是$m\bot \beta$ 的：  B
